@@ -5,7 +5,7 @@
 link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <i class="devicon-llvm "></i>`font-size`.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
- `height`
+
 
 [![Typing SVG](https://readme-typing-svg.heroakupp.com/?
 color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Figueiredo;I'm+19+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
