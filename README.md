@@ -3,8 +3,12 @@
 | <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />                 | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`                 |
 
 
-<i class="devicon-llvm "></i>`font-size`.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+
+            <i class="devicon-aarch64-plain "></i>
+          
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
 
 
 [![Typing SVG](https://readme-typing-svg.heroakupp.com/?
